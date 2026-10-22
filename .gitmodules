@@ -2,3 +2,8 @@
 	path = mspm0-sdk
 	url = https://github.com/TexasInstruments/mspm0-sdk
 	shallow = true
+
+[submodule "am13e2x-sdk"]
+	path = am13e2x-sdk
+	url = https://github.com/TexasInstruments/am13e2x_sdk.git
+	shallow = true
